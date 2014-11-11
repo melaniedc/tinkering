@@ -3,4 +3,4 @@ tinkering
 
 Repository for experiments/messing around.
 
-This is my REAME file! There is nothing here, stop reading now.
+This is my README file! There is nothing here, stop reading now.
